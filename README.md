@@ -1,6 +1,8 @@
 # wy-712-v1
 文宇创新 WY-712 V1 代号
 
+：712采用高压直流驱动
+
 淘宝链接(Taobao Link) https://shop112452226.taobao.com/
 
 产品支持论坛(Support forum): https://bbs.wenyucx.com
