@@ -33,11 +33,11 @@ Max output power selection: Press to modify, options avaialble are 90 100 110 12
             
 7，激活方式   'Keep heating ' 为开机即加热  'Sen 1-7'  为震动灵敏度调节 ‘High Level start’8为高电平激活 ， ‘Low Level start’9为低电平激活
 Working mode
-Keep heating: no standby, the soldering iron will keep heating.
+0 , means keep heating, no standby, the soldering iron will keep heating.
 Sen 1 to 7:  vibration switch sensor sensitivity setting. The bigger the number, the less sensitivity. When the vibration exceed the chosen sensitivity level, the 
 soldering iron will start heating.
-8 is High Level Start
-9 is Low Level Start
+8 is High Level Activate, suitable for normally closed switch
+9 is Low Level Activate, suitable for normally open switch 
 
 8，恢复出厂设定  长按才能进入，选择 Y/N， 单击确定后BB双响退出。
 Reset factory default.
